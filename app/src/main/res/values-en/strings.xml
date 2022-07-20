@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simulator english</string>
+    <string name="txt_simulador">Match simulator button</string>
+    <string name="img_home_team_description">Ensing home team</string>
+    <string name="img_away_team_description">Ensing away team</string>
 </resources>

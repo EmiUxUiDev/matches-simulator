@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simulador portuges</string>
+    <string name="txt_simulador">Botão simulador de partidas</string>
+    <string name="img_home_team_description">Distintivo do time local</string>
+    <string name="img_away_team_description">Distintivo do time visitante</string>
 </resources>
