@@ -4,4 +4,5 @@
     <string name="txt_simulador">Botão simulador de partidas</string>
     <string name="img_home_team_description">Distintivo do time local</string>
     <string name="img_away_team_description">Distintivo do time visitante</string>
+    <string name="error_api">Erro inesperado na carga de dados</string>
 </resources>

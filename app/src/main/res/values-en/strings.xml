@@ -4,4 +4,5 @@
     <string name="txt_simulador">Match simulator button</string>
     <string name="img_home_team_description">Ensing home team</string>
     <string name="img_away_team_description">Ensing away team</string>
+    <string name="error_api">Unexpected error on get data</string>
 </resources>
